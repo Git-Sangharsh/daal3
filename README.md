@@ -1,1 +1,2 @@
-## Text To Image Generation
+## Text To Image Generation Using ChatGpt-4
+
